@@ -156,6 +156,78 @@ Mostly live coding an interpreter to understand types, which is here:
 
 github.com/jcinnamond/trump
 
+## I estimate this talk will take 20 mins, give or take 10 mins
+www.noelrappin.com
+
+Bad estimates are not unique to software
+
+##### What if we just did stuff and got paid?
+- Customers reasonably expect estimates
+
+### Estimates are communication
+- Communicates the investment
+- Communicates progress
+- Communicates scope
+- Bad estimates communicate bad things
+    + unrealistic expectations
+    + way too much
+    + allows for micromanaging
+
+### Estimates at the beginning is the WORST
+- Like guessing time to the airport if you don't know where it is or if you even need to fly
+
+### Kind-of Estimate Theory
+
+#### Estimating Projects vs. Estimating Features
+- Nobody cares about feature estimates
+    + Only useful in aggregate
+- Only care about when users can use stuff
+- Estimates are probabalistic
+
+#### What makes estimates go wrong?
+- Bad assumptions
+- scope creep
+- Unknown complexity
+- Rework
+- sometimes there's pressure
+
+Developers are optimists
+
+A lower estimate doesn't make it less complex
+
+### How to do better
+Don't chase false precision
+
+What goes into estimate:
+- Complexity of the task
+    + We're bad at estimating time on a task
+- Skill of dev
+    + De-moralizing if personal
+    + Consistent
+- time on task
+    + Devs are pretty good at estimating this
+
+Estimate complexity and let time sort itself out == point
+- Everything else being consistent, the number of points per iteration becomes the most useful
+
+Key point: decompose problem into smaller stories
+
+The above doesn't help a one-off estimates
+
+### The worst way to estimate
+Fake your velocity in the beginning.
+
+Don't chase precision here.
+
+What you'll get is a range
+
+Round point estimates upwards
+
+Clearly describe the limits to your estimate
+
+
+
+
 
 
 
