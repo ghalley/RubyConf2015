@@ -1,7 +1,7 @@
 # RubyConf 2015
 
-rubyconf.org/parites
-mikeperham.com/events
+rubyconf.org/parties
+http://www.mikeperham.com/events/
 
 ## Keynote #1
 Carina Zona
@@ -150,6 +150,13 @@ TL;DR Fewer integration tests
 Section 508: no money if not ADA compliant
 
 Advice for winning: make it about money
+
+## Soft Typing
+Mostly live coding an interpreter to understand types, which is here:
+
+github.com/jcinnamond/trump
+
+
 
 
 
