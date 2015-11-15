@@ -57,4 +57,47 @@ Using a black box for decisions is regressive, to fairness.
 
 >Do not build without understanding consequences to others
 
+## How to stop hating your tests
+@searls
+
+- Tests make big objects harder to manage
+
+### Rule of Product
+- test combo of all params
+
+Test can do 3 things:
+- sets up (Given)
+- invokes (When)
+- verifies (Then)
+
+rspec-given
+
+Sandi Metz's Squint test
+
+#### Test Isolation
+- Unfocused tests
+- Too realistic tests
+    + slower
+    + take time to write/change
+    + so many moving parts
+- Redundant code coverage
+- Careless mocking
+    + Treats symptoms of test pain, not cause
+- Application Frameworks
+    + encourage only integration tests
+
+#### Test Feedback
+- Useless messages
+    + Bad messages provide wasted time
+    + judge message quality of tools
+- Slow loops
+    + limits the tasks you can do in a day
+- Painful Data
+- Test Durations
+- False negatives
+    + Unfinished tests
+    + erode confidence in tests
+    + redundent coverage, slow tests cause false negatives
+
+TL;DR Fewer integration tests
 
