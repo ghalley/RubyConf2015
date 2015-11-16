@@ -231,6 +231,55 @@ Worst Ideas Evar -- Aaron Patterson
 http://github.com/thagomizer/stupidideas
 thagomizer.com
 
+## Keynote: Leagues of Sea and Sky
+
+>Augmented reality!!!
+
+### Sea
+Lunar distance used to calc longitutude was not simple way back when
+
+Keeping track of the point of sunset was ok, if you could keep time in different places.
+- John Harrsion built a sea clock and asked to has it tested, tests it on fleet to Lisbon
+- Builds a second sea clock, then 17 years building a 3rd
+    + Figures out how to bring it down to the size of a pocketwatch
+    + SMASHING success on trans-atlantic voyage
+- Design was stolen by new Royal Astronomer
+- King George forces them to pay the prize for longitude
+    + they pay most of the prize money, but dissolve the prize entirely
+- John Harrison worked as a recluse
+    + could've worked together for better results
+    + both these methods now guide spacecraft
+
+## Aviation
+
+Most people only saw early flight in stunt shows, which doesn't convince them to try it in any way.
+
+Charles Lindbergh one of the earliest Air Mail pilots
+
+No one tried in first 5 years of prize for NYC - Paris
+
+No one sold Lindbergh a plane, so he has an inexperienced engineer (Donald Paul) to build one: The Spirit of St. Louis.
+
+Lindbergh super famous when he comes home.
+- Donald Paul is not, is left out of celebrations
+- Talks only about the plane, gives no realy credit to the engineers who built it.
+
+## Sky(ish)
+>Put a robot on Mars!!
+
+We explore by physical presence, which is hard to do for the planets.
+- Exploring planets through screens is hard, and leads to erroneous models of those planets
+- Video games can be useful tools, they're designed to make us feel like we're elsewhere
+
+Virtual Reality can be really, really effective.
+
+Focus on the people you're encountering, and how you might work with new people.
+
+@drjeffnorris
+
+
+
+
 
 
 
