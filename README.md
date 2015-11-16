@@ -250,7 +250,7 @@ Keeping track of the point of sunset was ok, if you could keep time in different
     + could've worked together for better results
     + both these methods now guide spacecraft
 
-## Aviation
+### Aviation
 
 Most people only saw early flight in stunt shows, which doesn't convince them to try it in any way.
 
@@ -264,7 +264,7 @@ Lindbergh super famous when he comes home.
 - Donald Paul is not, is left out of celebrations
 - Talks only about the plane, gives no realy credit to the engineers who built it.
 
-## Sky(ish)
+### Sky(ish)
 >Put a robot on Mars!!
 
 We explore by physical presence, which is hard to do for the planets.
@@ -278,6 +278,81 @@ Focus on the people you're encountering, and how you might work with new people.
 @drjeffnorris
 
 
+## The Not So Rational Programmer
+
+### Our brain is a legacy system
+- Powerful
+- bad documentation
+- no error handling
+- no access to source code
+
+Cognitive bias: heuristics the brain uses to make very quick decisions, especially in a pinch.
+
+You'll recognize a person and their emotional state far faster/easier than you'd solve 17 x 24
+
+Uses cognitive bias to approximate results that are ok most of the time
+
+You can't turn it off, and you can't always know when it's happening
+
+### Personal Decision Making
+
+#### Confirmation Bias
+search for/interpret info in a way the confirms preconceptions
+
+- might get angry if preconception is challenged
+
+##### Practice challenging your own opinion
+- use devil's advocate if needed
+
+#### Mere Exposure Effect
+- Undue liking for things merely because we're familiar with them
+- Cognitive Ease
+- Cognitive Strain
+    + something we find that we're not familiar with
+    + seen as a potential threat up front, requires more effort
+        * fewer errors, much slower
+- Objective Criteria can be helpful for evaluation
+- Personal Impression, only as support
+- Seperate evaluation/execution
+
+### Team Decision Making
+
+#### False Consensus Effect
+Overestimating the degree to which people think like or agree with me.
+- We project our own assumptions on other people
+    + Stronger when we're a part of the same group
+- Be explicity to mitigate the effect
+- Encourage questions
+- Collect opinions first
+
+#### Groupthink
+members try to minimize conflict to reach consensus w/o evaluation, to preserve harmony
+- Changing or discarding own opinions to fit this
+    + limits critical and independant thinking
+- Evolutionarily developed
+
+##### Factors to groupthink
+- highly cohesive
+- structural faults
+    + isolated
+    + homogenous members
+- situational context
+    + perceived threats
+    + recent failures
+
+- Have diverse teams in demographics and viewpoints
+- Encourage critical evaluation
+- Don't prime a discussion by stating your own opinions
+- Get outside opinions
+- appoint a devil's advocate
+
+>When we all think alike, then no one is thinking - Walter Lippman
+
+### It's ok to change your opinion based on new or updated info
+
+>Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance. -Daniel Kahneman
+
+@laura_nobilis
 
 
 
