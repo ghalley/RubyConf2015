@@ -225,6 +225,11 @@ Round point estimates upwards
 
 Clearly describe the limits to your estimate
 
+## Keynote: Stupid Ideas for Many Computers
+Worst Ideas Evar -- Aaron Patterson
+
+http://github.com/thagomizer/stupidideas
+thagomizer.com
 
 
 
