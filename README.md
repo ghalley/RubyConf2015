@@ -382,6 +382,39 @@ Invest in yourself and others
 2. Your preferences are your friends
 3. Build the platform you want to live with
 
+## Manage your energy, not your time
+@jmmastey
+
+People are working so very much, foregoing time off.
+
+When demand exceeds capacity, we make the easy choices.
+
+>Not quantity of time, but quality of energy.
+
+0. Pay Attention to energy
+1. Get energy
+2. Spend it wisely
+3. Recharge it better
+
+### Get Energy
+- Get enough sleep, and restorative sleep
+- exercise, at least a little
+- eat well
+- should have short-lived, moderate levels of stress
+
+### Spent it wisely
+- willpower does not diminish, unless you believe it does
+- multi-tasking is like the cake - a lie
+- procrastinate less
+
+### Recharge it better
+#### Rest is not idleness, Idleness is not rest
+
+#### Alternate activity and rest
+>Take some damn time off - Joe
+
+
+
 
 
 
