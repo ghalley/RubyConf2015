@@ -354,6 +354,36 @@ members try to minimize conflict to reach consensus w/o evaluation, to preserve 
 
 @laura_nobilis
 
+## Hacking Spacetime for a successful career
+@tehviking
+
+Achievement is a system of control
+- It's somebody else's rules
+
+### Technician Track
+likes tools and techniques
+asks how
+focuses on tactics
+
+### Manager
+fascination with people
+asks who what where when
+
+### Entrepreneur
+likes gaps in the world
+asks why
+focus on vision and invention
+
+What word do you do when you're stressed?
+
+Invest in yourself and others
+
+1. You can opt of the the cycle
+2. Your preferences are your friends
+3. Build the platform you want to live with
+
+
+
 
 
 
