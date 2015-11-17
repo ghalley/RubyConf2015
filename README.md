@@ -476,6 +476,20 @@ Know your tools, use multiple tools
 speakerdeck.com/eileencodes
 
 
+## Learn to make music with Ruby
+
+Sonic-pi.net
+
+https://gist.github.com/darinwilson/137764d4b06072de626c
+
+60 == middle C, can use `:C4`
+
+each integer represents a half-step note
+
+`sleep` takes a number of beats to rest as an arg
+
+
+
 
 
 
