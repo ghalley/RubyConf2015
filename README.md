@@ -477,6 +477,7 @@ speakerdeck.com/eileencodes
 
 
 ## Learn to make music with Ruby
+@darinwilson
 
 Sonic-pi.net
 
