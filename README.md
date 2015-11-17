@@ -413,6 +413,79 @@ When demand exceeds capacity, we make the easy choices.
 #### Alternate activity and rest
 >Take some damn time off - Joe
 
+## Using Ruby In Security Critical Apps
+Tom Macklin
+
+The Reasonable Expectations of Your CTO, Software Craftsmanship 2012
+
+Assuring is not good, but evident assurances let other people decide for themselves
+
+The right controls in the right places with the right assurances.
+
+### NEAT
+
+#### Non-bypassible
+
+#### Evaluatable
+
+#### Always Invoked
+
+#### Tamper Evident
+
+### Some takeaways
+- abstract OS "hooks" with FFI
+- stub OS controls for development
+- don't give your app system priveleges
+
+tmacklin
+
+## How to Performance
+
+@eileencodes
+
+benchmarking: how slow it is
+profiling: what is slow
+
+### Get a baseline
+github.com/eileencodes/integration_performance_test
+
+`time` is not a good baseline to use
+
+gem benchmark-ips
+
+### Find the culprits
+
+gem ruby-prof
+- lots of options
+- CallStackPrinter visualizes call stack
+
+gem StackProf
+- more focused profiling
+
+> Always Be Benchmarking
+
+Turns out OSX is awful at measuring CPU time
+use `wall` time
+
+RubyVM.stat
+
+AllocationTracer tool
+
+Know your tools, use multiple tools
+
+speakerdeck.com/eileencodes
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
