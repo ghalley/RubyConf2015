@@ -1,14 +1,11 @@
 # RubyConf 2015
 
-rubyconf.org/parties
-http://www.mikeperham.com/events/
-
 ## Keynote #1
 Carina Zona
 
 Algorithms have consequences on people
 
-Mar IO
+MarIO
 
 Target:
 > If we wanted to figure out if someone was pregnant, even it they didn't want us to know, could you do that?
@@ -29,9 +26,9 @@ Accidental algo run-ins
 Tools used to make film, the science of it, are not racially neutral
 - optimized for white skin with Shirley cards
 
->If a machine is expected to be infallible, it cannot alsoe be intelligent - Alan Turing
+>If a machine is expected to be infallible, it cannot also be intelligent - Alan Turing
 
-Using a black box for decisions is regressive, to fairness.
+Using a black box for decisions is regressive, to fairness and equality.
 
 ### Flipping the paradigm
 
@@ -123,7 +120,7 @@ TL;DR Fewer integration tests
 - needs to be more useful than stack overflow
 - They are not state secrets, they are subtle self promotion
 - Good for dev on-boarding
-- GOod for build procedures
+- Good for build procedures
 
 ### 5. Affordance
 - what your software is trying to get people to do
